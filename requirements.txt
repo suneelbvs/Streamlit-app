@@ -1,0 +1,4 @@
+rdkit-pypi
+Pillow
+leafmap
+stmol
